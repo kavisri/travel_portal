@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "524454112214",
+    "firebase_url": "https://travelportal-40bcb.firebaseio.com",
+    "project_id": "travelportal-40bcb",
+    "storage_bucket": "travelportal-40bcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524454112214:android:6cb39ca467bc5513",
+        "android_client_info": {
+          "package_name": "com.example.travel_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524454112214-39n3931hjqjgah5hc03gkeovq6pjn1a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travel_portal",
+            "certificate_hash": "23fce16ac1f20ef6941db689acaf17e7d1a95713"
+          }
+        },
+        {
+          "client_id": "524454112214-sed1io2nrmes5nv3sjb4aerold6rq7d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZNu3b6oAm4lCI-8FYHajB6PM0zwsDQfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524454112214-sed1io2nrmes5nv3sjb4aerold6rq7d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
